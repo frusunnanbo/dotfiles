@@ -1,0 +1,9 @@
+[include]
+	path = ~/dotfiles/.gitconfig.private
+[alias]
+	ff = pull
+	st = status
+	uncode = checkout
+	unstash = stash pop
+[user]
+	name = Pia Fåk Sunnanbo
